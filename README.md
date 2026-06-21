@@ -1,18 +1,58 @@
-# React + Vite
+<<<<<<< HEAD
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# TurnApp Frontend
 
-Currently, two official plugins are available:
+Frontend de TurnApp desarrollado con Vite.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## Requisitos
 
-## React Compiler
+Antes de comenzar, asegúrate de tener instalado:
 
-The React Compiler is enabled on this template. See [this documentation](https://react.dev/learn/react-compiler) for more information.
+- Node.js (versión 18 o superior recomendada)
+- pnpm
 
-Note: This will impact Vite dev & build performances.
+Para instalar pnpm globalmente:
 
-## Expanding the ESLint configuration
+```bash
+npm install -g pnpm
+```
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Instalación
+
+Clona el repositorio:
+
+```bash
+git clone <https://github.com/aitorarz/TurnAppFront>
+cd TurnAppFront
+```
+
+Instala las dependencias:
+
+```bash
+pnpm install
+```
+
+## Ejecución en desarrollo
+
+Inicia el servidor de desarrollo:
+
+```bash
+pnpm run dev
+```
+
+## Tecnologías
+
+- Vite
+- JavaScript
+- React
+- pnpm
+
+## Licencia
+
+Proyecto privado.
+
+=======
+
+# TurnAppFront
+
+> > > > > > > da56782a30037c0a00411fd14a5b043cf647b9e6
